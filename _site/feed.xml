@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hironobu Nakamura</title>
+    <description>Hand Writing Metabolism</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>HAND WRITING METABOLISM</title>
+        <description>&lt;h1 id=&quot;project&quot;&gt;Project&lt;/h1&gt;
+
+&lt;h2 id=&quot;final-presentation&quot;&gt;final presentation&lt;/h2&gt;
+
+&lt;h3 id=&quot;theme--life-can-be-information-material&quot;&gt;Theme : LIFE CAN BE INFORMATION MATERIAL?&lt;/h3&gt;
+&lt;p&gt;Use microorganism as material and information.&lt;/p&gt;
+
+&lt;h2 id=&quot;previous-studies&quot;&gt;Previous studies&lt;/h2&gt;
+
+&lt;p&gt;90 petabytes of data into 41 grams of DNA.&lt;/p&gt;
+
+&lt;p&gt;-&amp;gt;&lt;a href=&quot;https://www.nature.com/news/synthetic-double-helix-faithfully-stores-shakespeare-s-sonnets-1.12279&quot;&gt;Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Over five million bits of data were stored and all the DNA files reproduced the information between 99.99% and 100% accuracy encoding the data in a series of overlapping short oligonucleotides.&lt;/p&gt;
+
+&lt;p&gt;-&amp;gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3672958/&quot;&gt;Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DNACloud: Encoding computer files to DNA data&lt;/p&gt;
+
+&lt;p&gt;-&amp;gt;&lt;a href=&quot;http://www.guptalab.org/dnacloud/index.html&quot;&gt;Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Method for random access of data items stored in DNA.&lt;/p&gt;
+
+&lt;p&gt;-&amp;gt;&lt;a href=&quot;https://spectrum.ieee.org/the-human-os/biomedical/devices/dna-data-storage-gets-random-access&quot;&gt;Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fully automated system to encode and decode data in DNA.&lt;/p&gt;
+
+&lt;p&gt;-&amp;gt;&lt;a href=&quot;https://news.microsoft.com/innovation-stories/hello-data-dna-storage/&quot;&gt;Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;project-1&quot;&gt;Project&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-write-down-characters-and-translate-data-to-dna-code&quot;&gt;1. Write down characters and translate data to DNA code&lt;/h3&gt;
+
+&lt;p&gt;Text unicode data
+Coordinate data of handwriting&lt;/p&gt;
+
+&lt;p&gt;↓&lt;/p&gt;
+
+&lt;p&gt;Binary data 
+0 0 1 1 0 1 0 0 1 …..&lt;/p&gt;
+
+&lt;p&gt;↓&lt;/p&gt;
+
+&lt;p&gt;DNA data
+A T T G C C A …..&lt;/p&gt;
+
+&lt;h3 id=&quot;2genetically-inject-dna-data-into-microbe-dna-and-culture-them&quot;&gt;2.Genetically inject DNA data into microbe DNA, and culture them.&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;DNA syntehtize&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Phosphoramidite method&lt;/li&gt;
+  &lt;li&gt;DNA synthesizer&lt;/li&gt;
+  &lt;li&gt;Order DNA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;DNA transformation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create vector with synthetic DNA fragment&lt;/li&gt;
+  &lt;li&gt;Transformation by homologous recombination&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;3sequencing-dna-in-microbe-and-pick-out-the-data&quot;&gt;3.Sequencing DNA in microbe and pick out the data&lt;/h3&gt;
+&lt;h3 id=&quot;4regenerate-handwriting-information&quot;&gt;4.Regenerate handwriting information&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/HironobuNakamura2/biohack-academy-final-presentation-140185770&quot;&gt;Link to slides&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Apr 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Final_presentation/</link>
+        <guid isPermaLink="true">http://localhost:4000/Final_presentation/</guid>
+      </item>
+    
+  </channel>
+</rss>
